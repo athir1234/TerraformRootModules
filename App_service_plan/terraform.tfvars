@@ -1,0 +1,6 @@
+serviceplanname = "linuxwebplan202402"
+rgname          = "linuxwebapRG"
+location        = "East US"
+ostype          = "Linux"
+skuname         = "B1"
+linuxwebappname = "mylinuxwebapp2024mar"
